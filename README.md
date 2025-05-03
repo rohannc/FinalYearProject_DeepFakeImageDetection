@@ -19,12 +19,10 @@ A robust web-based solution for detecting deepfake images using advanced AI tech
 
 ### Frontend
 - HTML5, CSS3, JavaScript
-- [Add your frontend framework if used]
 
 ### Backend
-- [Add your backend technology]
-- Deep Learning Framework: [Add framework used]
-- Image Processing Libraries: [Add libraries used]
+- Deep Learning Framework: PyTorch, Scikit-Learn
+- Image Processing Libraries: OpenCV, PIL
 
 ## 📋 Prerequisites
 
